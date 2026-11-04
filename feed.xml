@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Today with Chandra</title>
+<link>https://cdn.jsdelivr.net/gh/chandrapearce517-ops/today-with-chandra-feed@main/feed.xml</link>
+<atom:link href="https://cdn.jsdelivr.net/gh/chandrapearce517-ops/today-with-chandra-feed@main/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Daily highlights from Nature Genetics and weekly research papers, hosted by Alex and Jordan.</description>
+<language>en</language>
+<managingEditor>chandrapearce@yahoo.com (Chandra)</managingEditor>
+<itunes:author>Chandra</itunes:author>
+<itunes:email>chandrapearce@yahoo.com</itunes:email>
+<itunes:image href="https://cdn.jsdelivr.net/gh/chandrapearce517-ops/today-with-chandra-feed@main/cover.jpg"/>
+<itunes:category text="Science"/>
+<itunes:type>episodic</itunes:type>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>Nature Genetics Daily - Nov 4, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Wed, 04 Nov 2026 13:39:01 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-a18b8de0-74db-49ec-b601-c212410d89d0.mp3" length="9432613" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-a18b8de0-74db-49ec-b601-c212410d89d0.mp3</guid>
+<itunes:duration>1179</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Nov 3, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Tue, 03 Nov 2026 13:31:47 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-84e7a0cb-5187-4010-a8ab-6447d2e77eaf.mp3" length="8286757" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-84e7a0cb-5187-4010-a8ab-6447d2e77eaf.mp3</guid>
+<itunes:duration>1035</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Nov 2, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 02 Nov 2026 13:34:36 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-239a5b02-8c2a-4bee-99b1-115a069f967d.mp3" length="11894437" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-239a5b02-8c2a-4bee-99b1-115a069f967d.mp3</guid>
+<itunes:duration>1486</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Latest Research Papers</title>
+<description>Weekly research papers from the bioinformatics team channel</description>
+<pubDate>Mon, 02 Nov 2026 12:34:49 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7125dc35-20b6-46d2-a213-2e47f188e6d9.mp3" length="6232741" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7125dc35-20b6-46d2-a213-2e47f188e6d9.mp3</guid>
+<itunes:duration>779</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Nov 1, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sun, 01 Nov 2026 13:32:30 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-66f32c2b-1825-4362-b74b-1d85775b8d86.mp3" length="9825445" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-66f32c2b-1825-4362-b74b-1d85775b8d86.mp3</guid>
+<itunes:duration>1228</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 31, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sat, 31 Oct 2026 12:30:20 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-148e7b1f-7fd3-41aa-afac-ea333b2d875d.mp3" length="7702501" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-148e7b1f-7fd3-41aa-afac-ea333b2d875d.mp3</guid>
+<itunes:duration>962</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 30, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Fri, 30 Oct 2026 12:30:16 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-629060dc-1f07-4dce-8b76-f6f35c3df287.mp3" length="7483429" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-629060dc-1f07-4dce-8b76-f6f35c3df287.mp3</guid>
+<itunes:duration>935</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 29, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Thu, 29 Oct 2026 12:30:15 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-c7769843-9599-4326-b2b3-8b787404a831.mp3" length="7520101" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-c7769843-9599-4326-b2b3-8b787404a831.mp3</guid>
+<itunes:duration>940</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 28, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Wed, 28 Oct 2026 12:32:57 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7b98f2be-d36b-4702-a807-fa7f04709fd6.mp3" length="10638949" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7b98f2be-d36b-4702-a807-fa7f04709fd6.mp3</guid>
+<itunes:duration>1329</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 27, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Tue, 27 Oct 2026 12:30:47 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-cf90d032-5fbc-4507-a688-632a81516aa7.mp3" length="8957605" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-cf90d032-5fbc-4507-a688-632a81516aa7.mp3</guid>
+<itunes:duration>1119</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Latest Research Papers</title>
+<description>Neurodevelopmental gene research news, October 19 to 26, 2026</description>
+<pubDate>Mon, 26 Oct 2026 13:05:49 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-bf9e1348-93cf-4638-ad55-dee2301bae3b.mp3" length="8545573" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-bf9e1348-93cf-4638-ad55-dee2301bae3b.mp3</guid>
+<itunes:duration>1068</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 26, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 26 Oct 2026 12:31:59 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-4907e786-f838-4a3e-8d43-023f133576fa.mp3" length="10277797" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-4907e786-f838-4a3e-8d43-023f133576fa.mp3</guid>
+<itunes:duration>1284</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 25, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sun, 25 Oct 2026 12:30:20 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-3ad7687a-5018-49f7-bf51-ff83a8ca1104.mp3" length="9173221" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-3ad7687a-5018-49f7-bf51-ff83a8ca1104.mp3</guid>
+<itunes:duration>1146</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 24, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sat, 24 Oct 2026 12:33:42 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-5bab1d68-f19d-4c0b-893e-c343f0c95507.mp3" length="10541797" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-5bab1d68-f19d-4c0b-893e-c343f0c95507.mp3</guid>
+<itunes:duration>1317</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 23, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Fri, 23 Oct 2026 12:39:03 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-ab6d4480-b1e0-4a6e-b3d3-e3e3f89f40d9.mp3" length="9632101" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-ab6d4480-b1e0-4a6e-b3d3-e3e3f89f40d9.mp3</guid>
+<itunes:duration>1204</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 22, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Thu, 22 Oct 2026 12:31:30 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-51ab99cb-db02-47fa-9b79-64bc21740001.mp3" length="10745893" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-51ab99cb-db02-47fa-9b79-64bc21740001.mp3</guid>
+<itunes:duration>1343</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 21, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Wed, 21 Oct 2026 12:34:28 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-fc09bc3c-ea9a-4bce-a1a4-8c23f77739f0.mp3" length="9343141" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-fc09bc3c-ea9a-4bce-a1a4-8c23f77739f0.mp3</guid>
+<itunes:duration>1167</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 20, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Tue, 20 Oct 2026 12:31:55 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-9ce50fad-d40a-49da-b11a-25510baad371.mp3" length="8211877" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-9ce50fad-d40a-49da-b11a-25510baad371.mp3</guid>
+<itunes:duration>1026</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 19, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 19 Oct 2026 12:30:59 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-d2809354-2600-4495-844c-3059ac984f31.mp3" length="7951121" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-d2809354-2600-4495-844c-3059ac984f31.mp3</guid>
+<itunes:duration>993</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 18, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sun, 18 Oct 2026 12:29:46 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-a2a08b4c-b3f0-4d45-9188-250700aa16fe.mp3" length="7390117" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-a2a08b4c-b3f0-4d45-9188-250700aa16fe.mp3</guid>
+<itunes:duration>923</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 17, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sat, 17 Oct 2026 12:31:33 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-8e5a90dd-5ffe-4dcb-ac22-6f02e321ab8b.mp3" length="7748773" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-8e5a90dd-5ffe-4dcb-ac22-6f02e321ab8b.mp3</guid>
+<itunes:duration>968</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 16, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Fri, 16 Oct 2026 12:35:29 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-b54b1c09-abfb-4a81-9628-a2fd0dad9cba.mp3" length="8407141" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-b54b1c09-abfb-4a81-9628-a2fd0dad9cba.mp3</guid>
+<itunes:duration>1050</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 15, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Thu, 15 Oct 2026 12:33:44 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-79e19c00-9b6f-48ef-8c64-6b1ae98c48cf.mp3" length="9075109" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-79e19c00-9b6f-48ef-8c64-6b1ae98c48cf.mp3</guid>
+<itunes:duration>1134</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 14, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Wed, 14 Oct 2026 12:31:28 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-42bc3e0f-6fff-4deb-a725-c1ca1e1126c3.mp3" length="9041509" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-42bc3e0f-6fff-4deb-a725-c1ca1e1126c3.mp3</guid>
+<itunes:duration>1130</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 13, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Tue, 13 Oct 2026 12:31:37 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-1422ad2b-2e27-4421-831c-eadae6e7aa53.mp3" length="9570277" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-1422ad2b-2e27-4421-831c-eadae6e7aa53.mp3</guid>
+<itunes:duration>1196</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 12, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 12 Oct 2026 12:32:22 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-1ba47879-440d-4fdf-9a56-c73cf51d17e6.mp3" length="8222245" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-1ba47879-440d-4fdf-9a56-c73cf51d17e6.mp3</guid>
+<itunes:duration>1027</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 11, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sun, 11 Oct 2026 12:31:25 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-8f35743d-0ce9-46b7-8236-d02cd8e2df5f.mp3" length="6677605" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-8f35743d-0ce9-46b7-8236-d02cd8e2df5f.mp3</guid>
+<itunes:duration>834</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 10, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sat, 10 Oct 2026 12:33:04 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-e4ef201b-b8d7-48de-a1aa-3fd8d0444e86.mp3" length="6406501" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-e4ef201b-b8d7-48de-a1aa-3fd8d0444e86.mp3</guid>
+<itunes:duration>800</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 9, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Fri, 09 Oct 2026 12:32:43 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7d8048de-5cec-4bd1-a657-481519a7035d.mp3" length="6828133" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7d8048de-5cec-4bd1-a657-481519a7035d.mp3</guid>
+<itunes:duration>853</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 8, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Thu, 08 Oct 2026 12:29:58 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-1b770a42-bbae-4710-ba21-9f230d31453b.mp3" length="7748389" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-1b770a42-bbae-4710-ba21-9f230d31453b.mp3</guid>
+<itunes:duration>968</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 7, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Wed, 07 Oct 2026 12:32:45 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-059a9ab1-4eda-429b-abd1-6024f38cea5e.mp3" length="6905125" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-059a9ab1-4eda-429b-abd1-6024f38cea5e.mp3</guid>
+<itunes:duration>863</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 6, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Tue, 06 Oct 2026 12:30:42 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-be26a449-db98-421e-9adf-a64dfa714316.mp3" length="7067749" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-be26a449-db98-421e-9adf-a64dfa714316.mp3</guid>
+<itunes:duration>883</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 5, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 05 Oct 2026 12:32:33 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-f80fb5c8-b8f8-44f3-a498-e733971449dd.mp3" length="6651493" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-f80fb5c8-b8f8-44f3-a498-e733971449dd.mp3</guid>
+<itunes:duration>831</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 2, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 05 Oct 2026 12:28:16 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-464e7061-4170-4337-96e0-6306edeb93ca.mp3" length="8436709" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-464e7061-4170-4337-96e0-6306edeb93ca.mp3</guid>
+<itunes:duration>1054</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Oct 1, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Fri, 02 Oct 2026 14:43:26 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-b433eac3-8177-477a-bc51-4b9d2efaa282.mp3" length="7287589" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-b433eac3-8177-477a-bc51-4b9d2efaa282.mp3</guid>
+<itunes:duration>910</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 30, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Wed, 30 Sep 2026 12:36:14 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-e67c9ec5-e1cc-40a8-9214-1a6cb5b479ef.mp3" length="7482469" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-e67c9ec5-e1cc-40a8-9214-1a6cb5b479ef.mp3</guid>
+<itunes:duration>935</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 29, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Tue, 29 Sep 2026 12:35:12 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-c76fabfe-583a-4e68-92f0-50d80ad4674c.mp3" length="6086245" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-c76fabfe-583a-4e68-92f0-50d80ad4674c.mp3</guid>
+<itunes:duration>760</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 28, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Mon, 28 Sep 2026 12:36:05 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-4cacd175-fe2e-46af-badd-cbe9091e886c.mp3" length="8657317" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-4cacd175-fe2e-46af-badd-cbe9091e886c.mp3</guid>
+<itunes:duration>1082</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 27, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sun, 27 Sep 2026 12:33:46 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-fcebe25c-4ffd-4d15-bed8-bd10bbd605bd.mp3" length="7044517" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-fcebe25c-4ffd-4d15-bed8-bd10bbd605bd.mp3</guid>
+<itunes:duration>877</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 26, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Sat, 26 Sep 2026 12:35:49 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-4424e09b-9f15-4d42-9bd0-a4bcbdb80dc4.mp3" length="7209829" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-4424e09b-9f15-4d42-9bd0-a4bcbdb80dc4.mp3</guid>
+<itunes:duration>901</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 25, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Fri, 25 Sep 2026 12:35:20 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-05b1b17e-e677-4142-8ba2-fe5a5cf7f603.mp3" length="7154533" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-05b1b17e-e677-4142-8ba2-fe5a5cf7f603.mp3</guid>
+<itunes:duration>894</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Nature Genetics Daily - Sep 24, 2026</title>
+<description>Daily highlights from Nature Genetics</description>
+<pubDate>Thu, 24 Sep 2026 13:50:52 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-83d46ca3-cdad-41e3-8d57-9304fc19cee6.mp3" length="7013797" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-83d46ca3-cdad-41e3-8d57-9304fc19cee6.mp3</guid>
+<itunes:duration>876</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
