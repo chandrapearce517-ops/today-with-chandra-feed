@@ -15,6 +15,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>no</itunes:explicit>
 <item>
+<title>Latest Research Papers</title>
+<description>Weekly research papers from the bioinformatics team channel</description>
+<pubDate>Mon, 09 Nov 2026 12:02:25 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-3e3a4dfc-bec9-4406-9491-53752e67a4a8.mp3" length="3717157" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-3e3a4dfc-bec9-4406-9491-53752e67a4a8.mp3</guid>
+<itunes:duration>464</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Genetics Mini - November 7, 2026</title>
 <description>Daily genetics briefing from the team Slack channel</description>
 <pubDate>Sat, 07 Nov 2026 13:04:02 +0000</pubDate>
