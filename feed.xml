@@ -15,6 +15,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>no</itunes:explicit>
 <item>
+<title>Bioinformatics Mini - 2026-11-21: fastVEP ACMG variant classification</title>
+<description>Daily bioinformatics briefing from the team Slack channel</description>
+<pubDate>Sat, 21 Nov 2026 12:31:51 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7af6770f-8d89-4211-80f6-8f0a8bcaed86.mp3" length="2302885" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-7af6770f-8d89-4211-80f6-8f0a8bcaed86.mp3</guid>
+<itunes:duration>287</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Genetics Mini - 2026-11-20: Dravet syndrome across the lifespan</title>
 <description>Daily genetics briefing from the team Slack channel</description>
 <pubDate>Fri, 20 Nov 2026 12:46:26 +0000</pubDate>
