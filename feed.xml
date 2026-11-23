@@ -15,6 +15,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>no</itunes:explicit>
 <item>
+<title>Genetics Mini - 2026-11-23: HPO tiers for NDD diagnosis</title>
+<description>Daily genetics briefing from the team Slack channel</description>
+<pubDate>Mon, 23 Nov 2026 12:46:58 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-669577f3-f717-47a8-900c-46f01218e6d3.mp3" length="3825445" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-669577f3-f717-47a8-900c-46f01218e6d3.mp3</guid>
+<itunes:duration>478</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Bioinformatics Mini - 2026-11-21: fastVEP ACMG variant classification</title>
 <description>Daily bioinformatics briefing from the team Slack channel</description>
 <pubDate>Sat, 21 Nov 2026 12:31:51 +0000</pubDate>
