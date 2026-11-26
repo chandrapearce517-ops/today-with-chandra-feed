@@ -15,6 +15,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>no</itunes:explicit>
 <item>
+<title>Genetics Mini - 2026-11-26: Rare protein-coding variation and height</title>
+<description>Daily genetics briefing from the team Slack channel</description>
+<pubDate>Thu, 26 Nov 2026 12:48:29 +0000</pubDate>
+<enclosure url="https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-75189aea-fcd3-45ec-a52e-1700a09f9795.mp3" length="2020542" type="audio/mpeg"/>
+<guid isPermaLink="true">https://muse.ai/podcasts/media/1346860011840702/19105e96-a689-49a3-83ba-e5a60884bee3/ep-75189aea-fcd3-45ec-a52e-1700a09f9795.mp3</guid>
+<itunes:duration>250</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>Bioinformatics Mini - 2026-11-26: Rewriting Scientific Software with Agents</title>
 <description>Daily bioinformatics briefing from the team Slack channel</description>
 <pubDate>Thu, 26 Nov 2026 12:26:22 +0000</pubDate>
